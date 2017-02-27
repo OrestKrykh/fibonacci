@@ -11,8 +11,6 @@ document.write('<br>');
 
 
 function fibonacciRecyrs(number){
-    var fib;
-    fib=[];
     if (number ===1){
         return 1
     }
